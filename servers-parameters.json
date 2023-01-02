@@ -1,0 +1,22 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject2"
+	},
+	{
+		"ParameterKey": "DiskSize",
+		"ParameterValue": "10"
+	},
+	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t3.small"
+	},
+	{
+		"ParameterKey": "MinInstances",
+		"ParameterValue": "2"
+	},
+	{
+		"ParameterKey": "MaxInstances",
+		"ParameterValue": "4"
+	}
+]
