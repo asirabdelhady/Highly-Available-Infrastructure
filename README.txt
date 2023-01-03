@@ -1,1 +1,1 @@
-Load Balancer DNS: http://serve-webap-1fez83lcttk9n-1906573764.us-east-1.elb.amazonaws.com/
+Load Balancer DNS: http://serve-webap-6oi3xdd60box-1451226193.us-east-1.elb.amazonaws.com/
